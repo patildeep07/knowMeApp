@@ -22,6 +22,10 @@ var questionList = [
   {
     question: "Am I still going to the gym? (yes or no) ",
     answer: "yes"
+  },
+  {
+    question: "Do you like learning WebDev? (yes or no) ",
+    answer: "yes"
   }
 ]
 
