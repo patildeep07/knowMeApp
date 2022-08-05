@@ -44,4 +44,17 @@ function play(question, answer) {
   
   var userName = readlineSync.question("What is your Username? ")
   console.log("Welcome ", userName, " to my How well do you Know me quiz")
+
+// Calling Functions and Loop
+
+// console.log(questionList[0])
+
+
+for (i = 0; i < questionList.length; i++) {
+    play(questionList[i].question, questionList[i].answer)
+  }
   
+  // Exit message
+  
+  console.log("Final Score is ", score)
+  console.log("Thank you ", userName, " for playing this quiz!")
