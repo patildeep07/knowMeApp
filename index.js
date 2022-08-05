@@ -24,7 +24,7 @@ var questionList = [
     answer: "yes"
   },
   {
-    question: "Do you like learning WebDev? (yes or no) ",
+    question: "Do I like learning WebDev? (yes or no) ",
     answer: "yes"
   }
 ]
