@@ -25,3 +25,23 @@ var questionList = [
   }
 ]
 
+// Defining functions
+
+function play(question, answer) {
+    // console.log(question)
+    var userAnswer = readlineSync.question(question, " ")
+    if (answer.toUpperCase() === userAnswer.toUpperCase()) {
+      console.log("Correct Answer!")
+      score++
+    } else {
+      console.log("Uh-oh! You got it Wrong")
+    }
+  
+    console.log("Current Score is ", score)
+  }
+  
+  // Intro
+  
+  var userName = readlineSync.question("What is your Username? ")
+  console.log("Welcome ", userName, " to my How well do you Know me quiz")
+  
