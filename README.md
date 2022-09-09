@@ -10,6 +10,7 @@ Have a good day!!
 
 # Output Screenshots
 
-![alt text] (intro.png)
 
-![alt text] (intro.png)
+![questions and outro](https://user-images.githubusercontent.com/59699631/189333464-2f072698-d334-4c40-809a-8d51d4009848.png)
+
+![intro](https://user-images.githubusercontent.com/59699631/189333527-f399cd32-ef33-4c1e-93e7-6cf401711665.png)
